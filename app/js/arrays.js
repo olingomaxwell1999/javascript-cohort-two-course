@@ -55,3 +55,55 @@ console.log(array8);
 //the above will add the string to the array at the first place since we have used index 0
 
 //the new array will have "new string"
+
+//arrays can be manipulated with following methods:
+
+//push() - This method adds an element to the end of an array.
+
+const array9 = ["string1", "string2", "string3"];
+
+array9.push("string4");
+
+console.log(array9);
+
+//the above statement will add the string4 to the end of the array
+
+//pop() - This method removes the last element from an array.
+
+const array10 = ["string1", "string2", "string3"];
+
+array10.pop();
+
+console.log(array10);
+
+//the above statement will remove the last element from the array
+
+//shift() - This method removes the first element from an array.
+
+const array11 = ["string1", "string2", "string3"];
+
+array11.shift();
+
+console.log(array11);
+
+//the above statement will remove the first element from the array
+
+//unshift() - This method adds an element to the beginning of an array.
+
+const array12 = ["string1", "string2", "string3"];
+
+array12.unshift("string4");
+
+console.log(array12);
+
+//the above statement will add the string4 to the beginning of the array
+
+//splice() - This method removes and/or adds elements to an array.
+
+const array13 = ["string1", "string2", "string3"];
+
+array13.splice(1, 1, "string4");
+
+console.log(array13);
+
+//the above statement will remove and/or add the string4 to the array
