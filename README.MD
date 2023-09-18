@@ -18,3 +18,4 @@ The belows shows the sequence in which we shall be having the topics.
 * 9.  BIGINT
 * 10. ARRAYS
 * 11. OBJECTS
+* 12. OPERATORS
