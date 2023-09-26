@@ -4,6 +4,15 @@ This ia a beginner guide to javascript. In this course we are going to guide you
 
 The belows shows the sequence in which we shall be having the topics.
 
+## How to run the files.
+
+if you are using the browser, always remember to link the specific topics file to the index.html file using the script tag ie:-
+    <script src="./{file location in the js folder}"></script>
+
+most of the actions hapenning in this cours can be viewed from the console log. So after running the html file, open the console log of your browser to see the results. Every step in this repository has been explained in the comments.
+
+For the projects and the exercise files, you dont have to link any file.
+
 # TABLE OF CONTENTS
 <!-- Start with writting a funtions in ES5 and ES6 and above -->
 <!-- also and function scopes -->
@@ -22,7 +31,7 @@ The belows shows the sequence in which we shall be having the topics.
 * 13. SIMPLE COMPARISONS
 * 14. ARITHMETIC OPERATORS
 * 15. LOGICAL OPERATORS
-* 16. CONDITIONALS
-* 17. IF STATEMENTS
-* 18. SWITCH STATEMENTS
+* 16. CONDITIONALS(if statements, else statements, else if statements, switch statements)
+* 17. 
+* 18.
 * 19. 
